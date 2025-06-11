@@ -1,0 +1,462 @@
+[2025-06-04 14:00:58] [INFO] Usuario encontrado: eric3
+[2025-06-04 14:00:58] [INFO] Usuario encontrado: eric3
+[2025-06-04 14:02:51] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:02:52] [INFO] Datos válidos. Procediendo al registro del usuario: yonielvegas
+[2025-06-04 14:02:52] [INFO] Registro exitoso del usuario: yonielvegas
+[2025-06-04 14:02:52] [INFO] Usuario registrado exitosamente: yonielvegas
+[2025-06-04 14:03:15] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 14:03:15] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 14:08:51] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:08:51] [INFO] Usuario ID 26 intentó validar código 2FA: 133213
+[2025-06-04 14:08:51] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:26] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:26] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:26] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:33] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:33] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:33] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:35] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:35] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:35] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:35] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:35] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:35] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:36] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:36] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:36] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:36] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:36] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:36] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:36] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:36] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:36] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:09:40] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:09:40] [INFO] Usuario ID 26 intentó validar código 2FA: 003665
+[2025-06-04 14:09:40] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 26.
+[2025-06-04 14:10:22] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 14:10:22] [INFO] Usuario ID 26 intentó validar código 2FA: 285010
+[2025-06-04 14:10:22] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 26.
+[2025-06-04 14:11:19] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:11:19] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:12:00] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:12:00] [INFO] El correo ya está registrado: yoni@gmail.com
+[2025-06-04 14:12:00] [INFO] El nombre de usuario ya está en uso: eric3
+[2025-06-04 14:12:00] [WARNING] Errores encontrados durante validación de registro: ❌ El correo ya está registrado. | ❌ El nombre de usuario ya está en uso. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:12:31] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:12:31] [INFO] El correo ya está registrado: yoni@gmail.com
+[2025-06-04 14:12:31] [INFO] El nombre de usuario ya está en uso: eric3
+[2025-06-04 14:12:31] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ El correo ya está registrado. | ❌ El nombre de usuario ya está en uso. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:12:44] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:12:44] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:17:47] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:17:47] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'apellido' solo debe contener letras. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:20:05] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:20:05] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:33:00] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:33:00] [WARNING] Errores encontrados durante validación de registro: ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:33:48] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:33:48] [INFO] El correo ya está registrado: yoni@gmail.com
+[2025-06-04 14:33:48] [INFO] El nombre de usuario ya está en uso: eric3
+[2025-06-04 14:33:48] [WARNING] Errores encontrados durante validación de registro: ❌ El correo ya está registrado. | ❌ El nombre de usuario ya está en uso. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:47:58] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:47:58] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'apellido' solo debe contener letras. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:48:34] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:48:34] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'apellido' solo debe contener letras. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 14:48:41] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 14:48:41] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'apellido' solo debe contener letras. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 15:20:02] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 15:20:02] [INFO] El nombre de usuario ya está en uso: eric3
+[2025-06-04 15:20:02] [INFO] El correo ya está registrado: yoni@gmail.com
+[2025-06-04 15:20:02] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ El nombre de usuario ya está en uso. | ❌ El correo ya está registrado. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 15:20:21] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 15:20:21] [INFO] El nombre de usuario ya está en uso: eric3
+[2025-06-04 15:20:21] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ El nombre de usuario ya está en uso. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 15:22:36] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
+[2025-06-04 15:23:33] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 15:23:33] [INFO] El nombre de usuario ya está en uso: gggonza
+[2025-06-04 15:23:33] [INFO] El correo ya está registrado: ggonza@gmail.com
+[2025-06-04 15:23:33] [WARNING] Errores encontrados durante validación de registro: ❌ El nombre de usuario ya está en uso. | ❌ El correo ya está registrado.
+[2025-06-04 20:05:30] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
+[2025-06-04 20:16:45] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 20:16:45] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 20:16:45] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 20:17:47] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 20:17:47] [INFO] Usuario ID 26 intentó validar código 2FA: 728452
+[2025-06-04 20:17:47] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 26.
+[2025-06-04 20:18:45] [INFO] Usuario encontrado: eric3
+[2025-06-04 20:18:45] [INFO] Usuario encontrado: eric3
+[2025-06-04 20:18:45] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 20:19:37] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 20:19:37] [INFO] Usuario ID 23 intentó validar código 2FA: 047630
+[2025-06-04 20:19:37] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 23.
+[2025-06-04 20:25:44] [INFO] Usuario encontrado: eric3
+[2025-06-04 20:25:44] [INFO] Usuario encontrado: eric3
+[2025-06-04 20:25:44] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 20:27:03] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 20:27:03] [INFO] Usuario ID 23 intentó validar código 2FA: 316828
+[2025-06-04 20:27:03] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 23.
+[2025-06-04 20:29:07] [INFO] Usuario encontrado: JairoPro
+[2025-06-04 20:29:07] [INFO] Usuario encontrado: JairoPro
+[2025-06-04 20:29:08] [INFO] Usuario temporal con ID 24 accedió a la página de autenticación 2FA.
+[2025-06-04 20:29:31] [INFO] Usuario temporal con ID 24 accedió a la página de autenticación 2FA.
+[2025-06-04 20:29:31] [INFO] Usuario ID 24 intentó validar código 2FA: 351639
+[2025-06-04 20:29:31] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 24.
+[2025-06-04 20:30:04] [INFO] Usuario encontrado: gggonza
+[2025-06-04 20:30:04] [INFO] Usuario encontrado: gggonza
+[2025-06-04 20:30:04] [INFO] Usuario temporal con ID 25 accedió a la página de autenticación 2FA.
+[2025-06-04 20:30:29] [INFO] Usuario temporal con ID 25 accedió a la página de autenticación 2FA.
+[2025-06-04 20:30:29] [INFO] Usuario ID 25 intentó validar código 2FA: 932906
+[2025-06-04 20:30:29] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 25.
+[2025-06-04 20:30:43] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 20:30:43] [INFO] Usuario encontrado: yonielvegas
+[2025-06-04 20:30:44] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 20:31:00] [INFO] Usuario temporal con ID 26 accedió a la página de autenticación 2FA.
+[2025-06-04 20:31:00] [INFO] Usuario ID 26 intentó validar código 2FA: 465937
+[2025-06-04 20:31:00] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 26.
+[2025-06-04 20:31:24] [INFO] Usuario encontrado: eric2
+[2025-06-04 20:31:24] [INFO] Usuario encontrado: eric2
+[2025-06-04 20:31:24] [INFO] Usuario temporal con ID 18 accedió a la página de autenticación 2FA.
+[2025-06-04 20:31:41] [INFO] Usuario temporal con ID 18 accedió a la página de autenticación 2FA.
+[2025-06-04 20:31:41] [INFO] Usuario ID 18 intentó validar código 2FA: 219239
+[2025-06-04 20:31:41] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 18.
+[2025-06-04 21:09:41] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:09:41] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:09:42] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:11:14] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:11:14] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:11:14] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:11:34] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:11:34] [INFO] Usuario ID 23 intentó validar código 2FA: 393229
+[2025-06-04 21:11:34] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 23.
+[2025-06-04 21:12:50] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:12:50] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:12:51] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:12:56] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:12:56] [INFO] Usuario ID 23 intentó validar código 2FA: 111111
+[2025-06-04 21:12:56] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 23.
+[2025-06-04 21:14:08] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:24:44] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:24:44] [INFO] Usuario encontrado: eric3
+[2025-06-04 21:24:44] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:25:46] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:25:46] [INFO] Usuario ID 23 intentó validar código 2FA: 495649
+[2025-06-04 21:25:46] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 23.
+[2025-06-04 21:26:06] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 21:26:06] [INFO] Usuario ID 23 intentó validar código 2FA: 459261
+[2025-06-04 21:26:06] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 23.
+[2025-06-04 21:29:49] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:29:49] [INFO] Datos válidos. Procediendo al registro del usuario: imkhike
+[2025-06-04 21:29:50] [INFO] Registro exitoso del usuario: imkhike
+[2025-06-04 21:29:50] [INFO] Usuario registrado exitosamente: imkhike
+[2025-06-04 21:30:15] [INFO] Usuario encontrado: imkhike
+[2025-06-04 21:30:15] [INFO] Usuario encontrado: imkhike
+[2025-06-04 21:30:15] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 21:30:33] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 21:30:33] [INFO] Usuario ID 27 intentó validar código 2FA: 813783
+[2025-06-04 21:30:33] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 27.
+[2025-06-04 21:30:49] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 21:30:49] [INFO] Usuario ID 27 intentó validar código 2FA: 563125
+[2025-06-04 21:30:49] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 27.
+[2025-06-04 21:43:25] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:43:25] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' debe tener al menos 3 caracteres. | ❌ El campo 'apellido' debe tener al menos 3 caracteres. | ❌ El nombre de usuario debe tener entre 4 y 20 caracteres. | ❌ El formato del correo electrónico es inválido o está vacío. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 21:45:43] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:45:44] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' debe tener al menos 3 caracteres. | ❌ El campo 'apellido' debe tener al menos 3 caracteres. | ❌ El nombre de usuario debe tener entre 4 y 20 caracteres. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 21:54:23] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
+[2025-06-04 21:55:05] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:55:05] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' debe tener al menos 3 caracteres. | ❌ El campo 'apellido' debe tener al menos 3 caracteres. | ❌ El nombre de usuario debe tener entre 4 y 20 caracteres. | ❌ El formato del correo electrónico es inválido o está vacío. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 21:56:17] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:56:17] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' debe tener al menos 3 caracteres. | ❌ El campo 'apellido' debe tener al menos 3 caracteres. | ❌ El nombre de usuario debe tener entre 4 y 20 caracteres. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 21:56:45] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:56:45] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' debe tener al menos 3 caracteres. | ❌ El campo 'apellido' debe tener al menos 3 caracteres. | ❌ El nombre de usuario debe tener entre 4 y 20 caracteres. | ❌ Solo se permiten correos con dominios confiables como gmail.com, yahoo.com, etc. | ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-04 21:58:41] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:58:41] [INFO] El correo ya está registrado: khike@gmail.com
+[2025-06-04 21:58:41] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ El correo ya está registrado.
+[2025-06-04 21:59:34] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-04 21:59:34] [INFO] El nombre de usuario ya está en uso: imkhike
+[2025-06-04 21:59:34] [INFO] El correo ya está registrado: khike@gmail.com
+[2025-06-04 21:59:34] [WARNING] Errores encontrados durante validación de registro: ❌ El campo 'nombre' solo debe contener letras. | ❌ El campo 'apellido' solo debe contener letras. | ❌ El nombre de usuario ya está en uso. | ❌ El correo ya está registrado.
+[2025-06-04 22:27:24] [INFO] Usuario encontrado: imkhike
+[2025-06-04 22:27:24] [INFO] Usuario encontrado: imkhike
+[2025-06-04 22:27:24] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 22:27:48] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 22:27:48] [INFO] Usuario ID 27 intentó validar código 2FA: 687945
+[2025-06-04 22:27:48] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 27.
+[2025-06-04 22:46:03] [INFO] Usuario encontrado: gggonza
+[2025-06-04 22:46:03] [INFO] Usuario encontrado: gggonza
+[2025-06-04 22:46:03] [INFO] Usuario temporal con ID 25 accedió a la página de autenticación 2FA.
+[2025-06-04 22:46:18] [INFO] Usuario temporal con ID 25 accedió a la página de autenticación 2FA.
+[2025-06-04 22:46:18] [INFO] Usuario ID 25 intentó validar código 2FA: 177145
+[2025-06-04 22:46:18] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 25.
+[2025-06-04 22:53:00] [INFO] Usuario encontrado: imkhike
+[2025-06-04 22:53:00] [INFO] Usuario encontrado: imkhike
+[2025-06-04 22:53:00] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 22:53:18] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-04 22:53:18] [INFO] Usuario ID 27 intentó validar código 2FA: 129639
+[2025-06-04 22:53:18] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 27.
+[2025-06-04 23:32:18] [INFO] Usuario encontrado: eric3
+[2025-06-04 23:32:18] [INFO] Usuario encontrado: eric3
+[2025-06-04 23:32:19] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 23:32:27] [INFO] Usuario temporal con ID 23 accedió a la página de autenticación 2FA.
+[2025-06-04 23:32:27] [INFO] Usuario ID 23 intentó validar código 2FA: 595899
+[2025-06-04 23:32:28] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 23.
+[2025-06-05 14:55:23] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
+[2025-06-05 14:57:30] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 14:57:30] [INFO] Datos válidos. Procediendo al registro del usuario: yonPHP
+[2025-06-05 14:57:30] [INFO] Registro exitoso del usuario: yonPHP
+[2025-06-05 14:57:30] [INFO] Usuario registrado exitosamente: yonPHP
+[2025-06-05 15:00:50] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 15:00:50] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 15:33:07] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 15:33:20] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 15:33:20] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 15:33:20] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:01:16] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:01:16] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:01:17] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:01:17] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 16:02:16] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:02:16] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:02:16] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:02:16] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 16:02:48] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:02:48] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 16:02:48] [INFO] Usuario ID 28 intentó validar código 2FA: 076808
+[2025-06-05 16:07:37] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:07:37] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 16:07:37] [INFO] Usuario ID 28 intentó validar código 2FA: 076808
+[2025-06-05 16:07:37] [WARNING] ❌ Código 2FA incorrecto para el usuario ID 28.
+[2025-06-05 16:37:02] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":28,"Usuario":"null","FechaSistema":"2025-06-05 16:37:02","IP":"::1"}
+[2025-06-05 16:37:02] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:37:02] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":28}
+[2025-06-05 16:37:02] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 16:37:15] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:37:15] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"yonPHP","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 16:37:15] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 16:37:15] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":28,"Usuario":"null","FechaSistema":"2025-06-05 16:37:15","IP":"::1"}
+[2025-06-05 16:37:15] [INFO] Usuario temporal con ID 28 accedió a la página de autenticación 2FA.
+[2025-06-05 16:37:15] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":28}
+[2025-06-05 16:37:15] [INFO] Datos del usuario ID 28 cargados exitosamente para 2FA.
+[2025-06-05 17:02:31] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 17:02:31] [INFO] SELECT en 'usuarios' columnas: Usuario con condiciones: {"Usuario":"yonPHP"}
+[2025-06-05 17:02:31] [INFO] SELECT en 'usuarios' columnas: email con condiciones: {"email":"yonphp@hotmail.com"}
+[2025-06-05 17:02:31] [INFO] Datos válidos. Procediendo al registro del usuario: yonPHP
+[2025-06-05 17:02:31] [INFO] Se insertó en la tabla 'usuarios': {"nombre":"Daniel","apellido":"Yao","email":"yonphp@hotmail.com","sexo":"M","Usuario":"yonPHP","HashMagic":"$2y$10$3W\/65\/UYa3RxTNujnwoqzeeWqDWL3ZGQpfj7vzH9sMIpgIARyuTyu","secret_2fa":"6KEWBKBDAHGKULQN"}
+[2025-06-05 17:02:31] [INFO] Registro exitoso del usuario: yonPHP
+[2025-06-05 17:02:31] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"registro","CodigoRegistro":"29","Usuario":"yonPHP","FechaSistema":"2025-06-05 17:02:31","IP":"::1"}
+[2025-06-05 17:02:31] [INFO] Usuario registrado exitosamente: yonPHP
+[2025-06-05 17:02:40] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 17:02:40] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"yonPHP","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:02:40] [INFO] Usuario encontrado: yonPHP
+[2025-06-05 17:02:40] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":29}
+[2025-06-05 17:02:40] [INFO] Usuario temporal con ID 29 accedió a la página de autenticación 2FA.
+[2025-06-05 17:02:40] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":29,"Usuario":"{\"email\":\"yonphp@hotmail.com\",\"secret_2fa\":\"6KEWBKBDAHGKULQN\"}","FechaSistema":"2025-06-05 17:02:40","IP":"::1"}
+[2025-06-05 17:02:40] [INFO] Datos del usuario ID 29 cargados exitosamente para 2FA.
+[2025-06-05 17:03:45] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":29}
+[2025-06-05 17:03:45] [INFO] Usuario temporal con ID 29 accedió a la página de autenticación 2FA.
+[2025-06-05 17:03:45] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":29,"Usuario":"{\"email\":\"yonphp@hotmail.com\",\"secret_2fa\":\"6KEWBKBDAHGKULQN\"}","FechaSistema":"2025-06-05 17:03:45","IP":"::1"}
+[2025-06-05 17:03:45] [INFO] Datos del usuario ID 29 cargados exitosamente para 2FA.
+[2025-06-05 17:03:45] [INFO] Usuario ID 29 intentó validar código 2FA: 105739
+[2025-06-05 17:03:45] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":29,"Usuario":"{\"email\":\"yonphp@hotmail.com\",\"secret_2fa\":\"6KEWBKBDAHGKULQN\"}","FechaSistema":"2025-06-05 17:03:45","IP":"::1"}
+[2025-06-05 17:03:45] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 29.
+[2025-06-05 17:08:59] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
+[2025-06-05 17:28:02] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:28:02] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"imkhike","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:28:02] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:28:02] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":27}
+[2025-06-05 17:28:02] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:28:02] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":null,"FechaSistema":"2025-06-05 17:28:02","IP":"::1"}
+[2025-06-05 17:28:02] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:31:20] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":27}
+[2025-06-05 17:31:20] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:31:20] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":null,"FechaSistema":"2025-06-05 17:31:20","IP":"::1"}
+[2025-06-05 17:31:20] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:32:12] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:32:12] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"imkhike","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:32:12] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:32:12] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa con condiciones: {"id":27}
+[2025-06-05 17:32:12] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:32:12] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":null,"FechaSistema":"2025-06-05 17:32:12","IP":"::1"}
+[2025-06-05 17:32:12] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:39:14] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:39:14] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"imkhike","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:39:14] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:39:14] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":27}
+[2025-06-05 17:39:14] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:39:14] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":"imkhike","FechaSistema":"2025-06-05 17:39:14","IP":"::1"}
+[2025-06-05 17:39:14] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:39:46] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":27}
+[2025-06-05 17:39:46] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:39:46] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":"imkhike","FechaSistema":"2025-06-05 17:39:46","IP":"::1"}
+[2025-06-05 17:39:46] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:39:46] [INFO] Usuario ID 27 intentó validar código 2FA: 630564
+[2025-06-05 17:39:46] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":"imkhike","FechaSistema":"2025-06-05 17:39:46","IP":"::1"}
+[2025-06-05 17:39:46] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 27.
+[2025-06-05 17:41:35] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 17:41:35] [INFO] SELECT en 'usuarios' columnas: Usuario con condiciones: {"Usuario":"ElYosho"}
+[2025-06-05 17:41:35] [INFO] SELECT en 'usuarios' columnas: email con condiciones: {"email":"yosho@hotmail.com"}
+[2025-06-05 17:41:35] [INFO] Datos válidos. Procediendo al registro del usuario: ElYosho
+[2025-06-05 17:41:35] [INFO] Se insertó en la tabla 'usuarios': {"nombre":"Aldo","apellido":"Botello","email":"yosho@hotmail.com","sexo":"M","Usuario":"ElYosho","HashMagic":"$2y$10$woFf0OXrgBKuUGhUWWNVV.iOIHuT\/cdjhg5WtIiPvi9qABD3Y7A5C","secret_2fa":"Z4NFQ42XAEXJLRT3"}
+[2025-06-05 17:41:35] [INFO] Registro exitoso del usuario: ElYosho
+[2025-06-05 17:41:35] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"registro","CodigoRegistro":"30","Usuario":"ElYosho","FechaSistema":"2025-06-05 17:41:35","IP":"::1"}
+[2025-06-05 17:41:35] [INFO] Usuario registrado exitosamente: ElYosho
+[2025-06-05 17:42:15] [INFO] Usuario encontrado: ElYosho
+[2025-06-05 17:42:15] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"ElYosho","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:42:15] [INFO] Usuario encontrado: ElYosho
+[2025-06-05 17:42:15] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":30}
+[2025-06-05 17:42:15] [INFO] Usuario temporal con ID 30 accedió a la página de autenticación 2FA.
+[2025-06-05 17:42:15] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":30,"Usuario":"ElYosho","FechaSistema":"2025-06-05 17:42:15","IP":"::1"}
+[2025-06-05 17:42:15] [INFO] Datos del usuario ID 30 cargados exitosamente para 2FA.
+[2025-06-05 17:43:32] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":30}
+[2025-06-05 17:43:32] [INFO] Usuario temporal con ID 30 accedió a la página de autenticación 2FA.
+[2025-06-05 17:43:32] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":30,"Usuario":"ElYosho","FechaSistema":"2025-06-05 17:43:32","IP":"::1"}
+[2025-06-05 17:43:32] [INFO] Datos del usuario ID 30 cargados exitosamente para 2FA.
+[2025-06-05 17:43:32] [INFO] Usuario ID 30 intentó validar código 2FA: 739381
+[2025-06-05 17:43:32] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":30,"Usuario":"ElYosho","FechaSistema":"2025-06-05 17:43:32","IP":"::1"}
+[2025-06-05 17:43:32] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 30.
+[2025-06-05 17:52:29] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:52:29] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"imkhike","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 17:52:29] [INFO] Usuario encontrado: imkhike
+[2025-06-05 17:52:29] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":27}
+[2025-06-05 17:52:29] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:52:29] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":"imkhike","FechaSistema":"2025-06-05 17:52:29","IP":"::1"}
+[2025-06-05 17:52:29] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:52:47] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":27}
+[2025-06-05 17:52:47] [INFO] Usuario temporal con ID 27 accedió a la página de autenticación 2FA.
+[2025-06-05 17:52:47] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":27,"Usuario":"imkhike","FechaSistema":"2025-06-05 17:52:47","IP":"::1"}
+[2025-06-05 17:52:47] [INFO] Datos del usuario ID 27 cargados exitosamente para 2FA.
+[2025-06-05 17:52:47] [INFO] Usuario ID 27 intentó validar código 2FA: 141596
+[2025-06-05 17:52:47] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 27.
+[2025-06-05 18:04:46] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 18:04:46] [INFO] SELECT en 'usuarios' columnas: Usuario con condiciones: {"Usuario":"arie"}
+[2025-06-05 18:04:46] [INFO] SELECT en 'usuarios' columnas: email con condiciones: {"email":"arie@gmail.com"}
+[2025-06-05 18:04:46] [WARNING] Errores encontrados durante validación de registro: ❌ La contraseña debe tener al menos 6 caracteres.
+[2025-06-05 18:04:54] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 18:04:54] [INFO] SELECT en 'usuarios' columnas: Usuario con condiciones: {"Usuario":"arie"}
+[2025-06-05 18:04:54] [INFO] SELECT en 'usuarios' columnas: email con condiciones: {"email":"arie@gmail.com"}
+[2025-06-05 18:04:54] [INFO] Datos válidos. Procediendo al registro del usuario: arie
+[2025-06-05 18:04:54] [INFO] Se insertó en la tabla 'usuarios': {"nombre":"Ana","apellido":"Mendoza","email":"arie@gmail.com","sexo":"F","Usuario":"arie","HashMagic":"$2y$10$sAtD.j22mia\/1..FjGP3CeVYl4XbzvrrHnN7X5P4aU16i6Wfs2T2a","secret_2fa":"XEYT2F3J5IBT5OCP"}
+[2025-06-05 18:04:54] [INFO] Registro exitoso del usuario: arie
+[2025-06-05 18:04:54] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"registro","CodigoRegistro":"31","Usuario":"arie","FechaSistema":"2025-06-05 18:04:54","IP":"::1"}
+[2025-06-05 18:04:54] [INFO] Usuario registrado exitosamente: arie
+[2025-06-05 18:05:41] [INFO] Usuario encontrado: arie
+[2025-06-05 18:05:41] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:05:41] [INFO] Usuario encontrado: arie
+[2025-06-05 18:05:41] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:05:41] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:05:41] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":31,"Usuario":"arie","FechaSistema":"2025-06-05 18:05:41","IP":"::1"}
+[2025-06-05 18:05:41] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:05:54] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:05:54] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:05:54] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":31,"Usuario":"arie","FechaSistema":"2025-06-05 18:05:54","IP":"::1"}
+[2025-06-05 18:05:54] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:05:54] [INFO] Usuario ID 31 intentó validar código 2FA: 872684
+[2025-06-05 18:05:54] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 31.
+[2025-06-05 18:09:19] [INFO] Usuario encontrado: arie
+[2025-06-05 18:09:19] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:09:19] [INFO] Usuario encontrado: arie
+[2025-06-05 18:09:19] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:09:19] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:09:19] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:10:23] [INFO] Usuario encontrado: arie
+[2025-06-05 18:10:23] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:10:23] [INFO] Usuario encontrado: arie
+[2025-06-05 18:10:23] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:10:23] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:10:23] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:10:38] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:10:38] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:10:38] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:10:38] [INFO] Usuario ID 31 intentó validar código 2FA: 508912
+[2025-06-05 18:10:38] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 31.
+[2025-06-05 18:13:52] [INFO] Usuario encontrado: arie
+[2025-06-05 18:13:52] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:13:52] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:13:52] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:13:52] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:14:08] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":31}
+[2025-06-05 18:14:08] [INFO] Usuario temporal con ID 31 accedió a la página de autenticación 2FA.
+[2025-06-05 18:14:08] [INFO] Datos del usuario ID 31 cargados exitosamente para 2FA.
+[2025-06-05 18:14:08] [INFO] Usuario ID 31 intentó validar código 2FA: 554950
+[2025-06-05 18:14:08] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 31.
+[2025-06-05 18:14:44] [INFO] Usuario encontrado: eric2
+[2025-06-05 18:14:44] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"eric2","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:14:44] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":18}
+[2025-06-05 18:14:44] [INFO] Usuario temporal con ID 18 accedió a la página de autenticación 2FA.
+[2025-06-05 18:14:44] [INFO] Datos del usuario ID 18 cargados exitosamente para 2FA.
+[2025-06-05 18:15:19] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":18}
+[2025-06-05 18:15:19] [INFO] Usuario temporal con ID 18 accedió a la página de autenticación 2FA.
+[2025-06-05 18:15:19] [INFO] Datos del usuario ID 18 cargados exitosamente para 2FA.
+[2025-06-05 18:15:19] [INFO] Usuario ID 18 intentó validar código 2FA: 599658
+[2025-06-05 18:15:19] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 18.
+[2025-06-05 18:25:08] [INFO] Solicitud POST recibida en registro_usuario.php
+[2025-06-05 18:25:08] [INFO] SELECT en 'usuarios' columnas: Usuario con condiciones: {"Usuario":"arie"}
+[2025-06-05 18:25:08] [INFO] SELECT en 'usuarios' columnas: email con condiciones: {"email":"arie@gmail.com"}
+[2025-06-05 18:25:08] [INFO] Datos válidos. Procediendo al registro del usuario: arie
+[2025-06-05 18:25:09] [INFO] Se insertó en la tabla 'usuarios': {"nombre":"Ana","apellido":"Mendoza","email":"arie@gmail.com","sexo":"F","Usuario":"arie","HashMagic":"$2y$10$vS26YJXqOwX9d6LxlANUaONWXOcM0tckqiy9pVkB3pZb8wFkL\/gjq","secret_2fa":"HKBX4MJHILRBHS5W"}
+[2025-06-05 18:25:09] [INFO] Registro exitoso del usuario: arie
+[2025-06-05 18:25:09] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"insert","CodigoRegistro":"32","Usuario":"arie","FechaSistema":"2025-06-05 18:25:09","IP":"::1"}
+[2025-06-05 18:25:09] [INFO] Usuario registrado exitosamente: arie
+[2025-06-05 18:25:47] [INFO] Usuario encontrado: arie
+[2025-06-05 18:25:47] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:25:48] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:25:48] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:25:48] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:25:48","IP":"::1"}
+[2025-06-05 18:25:48] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:26:04] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:26:04] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:26:04] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:26:04","IP":"::1"}
+[2025-06-05 18:26:04] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:26:04] [INFO] Usuario ID 32 intentó validar código 2FA: 283511
+[2025-06-05 18:26:04] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 32.
+[2025-06-05 18:29:33] [INFO] Usuario encontrado: arie
+[2025-06-05 18:29:33] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:29:33] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:29:33] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:29:33] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:29:33","IP":"::1"}
+[2025-06-05 18:29:33] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:29:48] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:29:48] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:29:48] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:29:48","IP":"::1"}
+[2025-06-05 18:29:48] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:29:50] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:29:50] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:29:50] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:29:50","IP":"::1"}
+[2025-06-05 18:29:50] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:31:00] [INFO] Usuario encontrado: arie
+[2025-06-05 18:31:00] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:31:00] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:31:00] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:31:00] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:31:00","IP":"::1"}
+[2025-06-05 18:31:00] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:31:04] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:31:04] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:31:04] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:31:04","IP":"::1"}
+[2025-06-05 18:31:04] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:32:52] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:32:52] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:32:52] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:32:52","IP":"::1"}
+[2025-06-05 18:32:52] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:32:52] [INFO] Usuario ID 32 intentó validar código 2FA: 110101
+[2025-06-05 18:32:52] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 32.
+[2025-06-05 18:43:19] [INFO] Usuario encontrado: arie
+[2025-06-05 18:43:19] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:43:19] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:43:19] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:43:19] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:43:19","IP":"::1"}
+[2025-06-05 18:43:19] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:43:40] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:43:40] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:43:40] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:43:40] [INFO] Usuario ID 32 intentó validar código 2FA: 029697
+[2025-06-05 18:43:40] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 32.
+[2025-06-05 18:51:40] [INFO] Usuario encontrado: arie
+[2025-06-05 18:51:40] [INFO] Se insertó en la tabla 'intentos_login': {"Usuario":"arie","ipRemoto":"::1","login_exitoso":1}
+[2025-06-05 18:51:40] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:51:40] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:51:40] [INFO] Se insertó en la tabla 'trazabilidad_acciones': {"Tabla":"usuarios","Accion":"select","CodigoRegistro":32,"Usuario":"arie","FechaSistema":"2025-06-05 18:51:40","IP":"::1"}
+[2025-06-05 18:51:40] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:52:00] [INFO] SELECT en 'usuarios' columnas: email, secret_2fa, Usuario con condiciones: {"id":32}
+[2025-06-05 18:52:00] [INFO] Usuario temporal con ID 32 accedió a la página de autenticación 2FA.
+[2025-06-05 18:52:00] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
+[2025-06-05 18:52:00] [INFO] Usuario ID 32 intentó validar código 2FA: 320433
+[2025-06-05 18:52:00] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 32.
