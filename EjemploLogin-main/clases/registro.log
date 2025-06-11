@@ -460,3 +460,4 @@
 [2025-06-05 18:52:00] [INFO] Datos del usuario ID 32 cargados exitosamente para 2FA.
 [2025-06-05 18:52:00] [INFO] Usuario ID 32 intentó validar código 2FA: 320433
 [2025-06-05 18:52:00] [INFO] ✅ Autenticación 2FA exitosa para usuario ID 32.
+[2025-06-11 03:29:29] [WARNING] Intento de acceso no autorizado a la página de autenticación 2FA.
